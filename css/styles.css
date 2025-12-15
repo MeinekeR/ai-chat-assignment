@@ -5,7 +5,7 @@
 :root {
   /* Primary Brand Colors */
   --jag-black: #0A3A40;          /* Jefferson Academy Black */
-  --jag-gold: #0F5959;           /* Jefferson Academy Gold */
+  --jag-gold: #ffffff           /* Jefferson Academy Gold */
   --jag-accent: #37a3a3;         /* Darker gold accent */
 
 
@@ -19,6 +19,28 @@
   --background-light: #f8f7f2;   /* Light gold background */
   --background-white: #ffffff;
   --background-dark: #343a40;
+}
+
+/* ===== CSS VARIABLES FOR DARK MODE ===== */
+
+
+[data-theme="dark"] {
+ /* Primary Brand Colors */
+ --jag-black: #37a3a3;
+ --jag-gold: #0fbebe;
+ --jag-accent: #0A3A40;
+
+
+ /* Text Colors */
+ --text-dark: #37a3a3;
+ --text-light: #ffffff;
+ --text-muted: #f8f7f2;
+
+
+ /* Background Colors */
+ --background-light: #0A3A40;
+ --background-white: #343a40;
+ --background-dark: #ffffff;
 }
 
 
@@ -283,5 +305,22 @@ body {
    padding-bottom: 56.25%;
  }
 }
+
+
+
+#theme-toggle {
+ font-size: 1.5rem;
+ padding: 5px 10px;
+ margin-left: 10px;
+ border-radius: 50%;
+ transition: all 0.3s ease;
+}
+
+
+#theme-toggle:hover {
+ background-color: rgba(255, 255, 255, 0.1);
+ transform: scale(1.1);
+}
+
 
 

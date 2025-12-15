@@ -64,7 +64,7 @@ Calendar Setup:
 
 
 Reflection:
-[Write 4-5 sentences about the calendar integration:
+Write 4-5 sentences about the calendar integration:
 - How will this calendar help you stay organized?
 It will visually organize everything.
 - What challenges did you face getting it set up?
@@ -75,3 +75,45 @@ Yes, I had it show the month, the week, and the schedule set ups.
 I like the month one because it gives me a good perspective of the entire month and due dates.
 - What other calendars might you add in the future?]
 I could add a personal one, a school one, and a cheer schedule. 
+
+
+
+Color Scheme Design:
+[Write 5-7 sentences about your color choices:
+- What colors did you choose for light mode? Why?
+For both the light and the dark mode I used the same colors, just turned their usages around. So I used, white, light teal, dark teal, and gray.
+- What colors did you choose for dark mode? Why?
+Similar to the light mode, I used dark teal, light teal, gray, and white.
+- How do your color choices reflect your personality or style?
+One of my favorite colors is blue and another one of my favorite colors is green and green and blue mixed is teal.
+- Did you use any color theory principles (complementary, analogous, etc.)?
+I used monochrome, I used the same color but just different hues and values of that color. 
+- How did you ensure good contrast for accessibility?
+I made sure that if there was a dark background the words were light and vice versa. 
+- What tools did you use to help choose colors?
+I used the gradient color picker in the css styles that just pops up when picking colors. 
+- Were there any colors you tried that didn't work? Why not?]
+Yeah, I attempted to use both green and blue separately, not mixed and I did not like the way it looked. 
+
+
+Theme Preferences:
+- Which theme do you prefer personally and why? 
+I think I like the light mode better just because I like how lighter backgrounds look with the colored text.
+- When do you think dark mode is most useful? 
+When you are in a dark room, or when it is dark outside I think it's much better to have a dark mode. 
+- Did you create any custom CSS for the toggle button?
+Yeah, I like when I hover over it, it pops up with a gray kinda circle around it. 
+
+
+JavaScript Understanding:
+[Write 4-5 sentences showing you understand the JavaScript code:
+- In your own words, what does the JavaScript do?
+The Javascript is what makes the button switch the light mode to the dark mode, and when you switch tabs to Next Quarter it keeps it in dark mode. 
+- What is localStorage and why is it useful?
+It is for persisting user preferences, and data persistence, it toggles the dark and light modes.
+- What happens when you click the theme toggle button?
+It changes the theme from dark mode to light mode and the other way around. 
+- Why does the theme preference persist when you reload the page?
+Because of Javascript and localStorage usages within the entire webpage.
+- How might you use JavaScript in future projects?]
+If I want another toggle button for dark or light theme or just two different themes, and to make sure those themes carry on to other tabs.
