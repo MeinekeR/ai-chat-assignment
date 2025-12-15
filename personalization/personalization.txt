@@ -43,24 +43,6 @@ With the updated links and organizational features it will be easy to use this s
 
 Hours spent: 2 weeks of class
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Calendar Setup:
 - Did you create a new calendar or use an existing one? I just embedded the one from Canvas.
 - How many Canvas iCal feeds did you add? 3
