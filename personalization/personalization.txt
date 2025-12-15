@@ -35,9 +35,13 @@ The two different concepts of jumbotron-fluid and container made sense. It expla
 - What was most challenging?
 The Bootstrap allignment classes were quite difficult and I still don't really understand them.
 - How do you feel about your CSS customization?
-
+I really enjoy my CSS customization, I like the different colors, and the organization of everything.
 - What would you add to JagTrack in the future?
+I think different color themes would be cool. As well as other tabs and things when it is made for smaller screens and stuff.
 - How will you use this site for planning next quarter?
+With the updated links and organizational features it will be easy to use this site to make sure I am on top of my work and not falling behind.
+
+Hours spent: 2 weeks of class
 
 
 
