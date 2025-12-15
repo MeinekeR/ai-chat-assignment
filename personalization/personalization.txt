@@ -1,0 +1,77 @@
+JagTrack Module 1 - Written Reflection
+Student: River Meineke
+Date: 12/11
+
+Choice point #1: COLOR THEME
+B
+I chose the personal palette with 3 to 5 colors that I felt went well together. 
+I picked a dark teal kind of color, that was accompanied with a lighter teal.
+Of course, I used accents colors like black and white. 
+These colors work well together because they are all just different hues of eachother. 
+
+NEXT QUARTER PLANNING
+My classes for next quarter:
+A block- English Hon
+B block- College Psychology 2
+C block- AP European history
+D block- SAT prep
+
+Explanation:
+- Why did you choose these classes?
+These classes are hard but they all sound interesting to me.
+- What are you most looking forward to learning?
+I am really excited to learn about the French Revolution in AP Euro history, and about general thoughts and feelings for pyschology. 
+- Which class do you think will be most challenging and why?
+I have heard that AP Euro is the hardest class I will be taking next semester, granted it hasn't started yet I already have homework. 
+- If you have a free period, how do you plan to use it productively?
+I have an off block whenever I am not in class for Pyschology, I will do homework for that class but also for my other classes.
+- How will these classes help you reach your academic or career goals?
+SAT prep will ensure that I get a good SAT score on the test therefore, allowing me to go to the college I want to. 
+
+REFLECTION 
+What I learned:
+- What Bootstrap concepts made sense to you?
+The two different concepts of jumbotron-fluid and container made sense. It explained the different sectioned off places and whether they fill the space or not.
+- What was most challenging?
+The Bootstrap allignment classes were quite difficult and I still don't really understand them.
+- How do you feel about your CSS customization?
+
+- What would you add to JagTrack in the future?
+- How will you use this site for planning next quarter?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Calendar Setup:
+- Did you create a new calendar or use an existing one? I just embedded the one from Canvas.
+- How many Canvas iCal feeds did you add? 3
+- Did you add them individually by course or as one combined feed? One combined
+
+
+Reflection:
+[Write 4-5 sentences about the calendar integration:
+- How will this calendar help you stay organized?
+It will visually organize everything.
+- What challenges did you face getting it set up?
+I couldn'[t figure out how to toggle between different calendar set ups.
+- Did you customize the calendar appearance? How?
+Yes, I had it show the month, the week, and the schedule set ups. 
+- What view works best for you (month, week, agenda)?
+I like the month one because it gives me a good perspective of the entire month and due dates.
+- What other calendars might you add in the future?]
+I could add a personal one, a school one, and a cheer schedule. 
